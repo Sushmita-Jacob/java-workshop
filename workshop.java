@@ -2,11 +2,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         // String is non-primitive, so use .equals()
         // AND OR NOT
-        int intx = 5;
-        int inty = 10;
-        double doublex = 5;
-        double doubley = 10;
-        double x = Math.pow(3,2) // 3^2 =9
+        double fuel = 5;
+        double people = 10;
         // Double uses more memory, int for optimization (stick to doubles)
         // Int truncates
         boolean k = false;
